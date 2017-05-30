@@ -1,0 +1,10 @@
+[: 
+ : Sample context file for the 'typed' system.
+ : The format is pretty self-explanatory.
+ :]
+
+x, y    :: Bool;            % nice ones
+n, m, k :: Nat;             % usually use 'em as nats
+f, g, h :: Nat -> Nat;      % some functions
+p, q    :: Nat -> Bool;     % some predicates...
+w       :: Ninja;           % a Ninja.  Why not?

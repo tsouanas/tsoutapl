@@ -1,0 +1,33 @@
+NAME
+     tsoutapl - implementations of various calculi
+
+SYNOPSIS
+     tsoutapl [options]
+     tsoutapl mode [options] FILE
+
+DESCRIPTION
+     Implementations in Haskell of various lambda-calculus based systems
+     close to those studied in Benjamin Pierce's ``Types and Programming
+     Languages'' book.  Made primarily for fun and secondarily as a project
+     for a graduate course given by Nikolaos Papaspyrou, at the MPLA
+     postgraduate programme: http://mpla.math.uoa.gr/
+
+OPTIONS
+     See tsoutapl --help.
+
+INSTALLATION
+     # make
+     # make test
+
+FILE FORMATS
+     The sample files provided contain comments that explain the formats.
+
+WEBSITE
+     http://mpla.math.uoa.gr/~thanos/code/tsoutapl/
+
+AUTHOR
+     Thanos Tsouanas <thanos@sians.org>
+
+KNOWN BUGS
+     None yet.  Go find some. :P
+

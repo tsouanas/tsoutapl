@@ -1,0 +1,9 @@
+Changes from 2.5 to 2.6:
+
+* Added this CHANGELOG. :P
+* Users may now give wrong terms in their programs.
+* New syntactic sugar for the 'typed' system: assert (condition) "error message";
+  which expands to:  if condition then unit else wrong "error message";
+* TpError and TpWrong are now two different types:
+  The first is concerned with type errors, the latter with user-defined errors.
+* Parsers now skip initial whitespace.
