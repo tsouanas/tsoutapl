@@ -11,7 +11,7 @@ close to those studied in Benjamin Pierce's "Types and Programming
 Languages" book.  Made primarily for fun and secondarily as a project
 for a graduate course given by Nikolaos Papaspyrou,
 at the [MPLA postgraduate programme][mpla], back in 2010.
-(The [tsoutapl][project's website] is still online for further info.)
+The [project website][tsoutapl] is still online for further info.
 
 # Installation
 
@@ -36,11 +36,6 @@ Run `tsoutapl --help`
 ## File formats
 
 The examples contain comments that explain the formats.
-
-
-# Website
-
-[TsouTAPL][tsoutapl]
 
 [tsoutapl]: http://www.tsouanas.org/tsoutapl/
 [mpla]: http://mpla.math.uoa.gr/
