@@ -19,7 +19,8 @@ at the [MPLA postgraduate programme][mpla]
 ## Requirements
 
 A rather *old* version of GHC (6.6 to 6.12).
-Eventually I will update this to work with current Haskell trends and GHC.
+Eventually I will update this to work with current Haskell trends and GHC,
+but it is currently broken.
 
 # Usage
 
@@ -36,6 +37,8 @@ The examples contain comments that explain the formats.
 
 
 # Website
+
+[TsouTAPL][tsoutapl]
 
 [tsoutapl]: http://www.tsouanas.org/tsoutapl/
 [mpla]: http://mpla.math.uoa.gr/
